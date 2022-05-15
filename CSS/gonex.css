@@ -93,7 +93,7 @@ nav {
     align-items: center;
   }
   nav .menu-icon:hover + ul {
-    height: auto;
+    height: 285.34px;
   }
 }
 nav .menu-icon {
